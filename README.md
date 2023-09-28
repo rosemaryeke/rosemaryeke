@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rosemaryeke
-- 👀 I’m interested in tableau,power BI, Google cloud...
-- 🌱 I’m currently learning data analytics..
-- 💞️ I’m looking to collaborate on Data Analysis..
+- 👀 I’m interested in full stack, Back end and front end ,tableau,power BI, Google cloud...
+- 🌱 I’m currently learning Software Engineering,data analytics..
+- 💞️ I’m looking to collaborate on Front end, Data Analysis..
 - 📫 How to reach me :rosemaryeke18@gmail.com
 
 <!---
